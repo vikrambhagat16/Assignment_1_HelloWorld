@@ -1,0 +1,16 @@
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.exe
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.deps.json
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.runtimeconfig.json
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.runtimeconfig.dev.json
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.dll
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\ref\Assignment_1_HelloWorld.dll
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\bin\Debug\net5.0\Assignment_1_HelloWorld.pdb
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.csproj.AssemblyReference.cache
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.AssemblyInfoInputs.cache
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.AssemblyInfo.cs
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.dll
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\ref\Assignment_1_HelloWorld.dll
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.pdb
+D:\Visual Studio Assignments\Assignment_1_HelloWorld\Assignment_1_HelloWorld\obj\Debug\net5.0\Assignment_1_HelloWorld.genruntimeconfig.cache
